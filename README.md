@@ -1,3 +1,36 @@
+# Screenshots
+Home Page
+<img width="1830" height="828" alt="Screenshot 2025-08-15 135401" src="https://github.com/user-attachments/assets/d6c2b4c5-1559-443a-8522-f2a7c4aeec67" />
+<br>
+<img width="1814" height="888" alt="Screenshot 2025-08-15 135431" src="https://github.com/user-attachments/assets/3ee0f483-72c9-4484-a357-383628382b4f" />
+<br>
+<img width="1826" height="856" alt="Screenshot 2025-08-15 135443" src="https://github.com/user-attachments/assets/fe9b9174-877f-4b94-9f79-dccd58848b09" />
+<br>
+<img width="1920" height="946" alt="Screenshot 2025-08-15 135509" src="https://github.com/user-attachments/assets/efb6cbcc-f8d6-4553-aea6-62d8d52fca9d" />
+<br>
+Features Page
+<br>
+<img width="1811" height="869" alt="Screenshot 2025-08-15 135519" src="https://github.com/user-attachments/assets/b2e9b379-bd73-4f3d-866d-1494a426843e" />
+<br>
+Benefits Page
+<img width="1844" height="901" alt="Screenshot 2025-08-15 135530" src="https://github.com/user-attachments/assets/3e3dadf7-2ab9-47d2-b0bc-7898d6712404" />
+<br>
+Contact Page
+<img width="1819" height="838" alt="Screenshot 2025-08-15 135540" src="https://github.com/user-attachments/assets/17b6f5a3-92a9-4d5e-97ae-f5582ff9db34" />
+<br>
+Login Page 
+<img width="1784" height="869" alt="Screenshot 2025-08-15 135550" src="https://github.com/user-attachments/assets/153af2c7-1cf8-4829-ad46-3cea83dee250" />
+<br>
+
+
+
+
+
+
+
+
+
+
 # School Management System
 
 A comprehensive and modern School Management System built with Next.js, Express.js, and MongoDB. This application provides a complete solution for managing educational institutions with features for students, teachers, administrators, and parents.
